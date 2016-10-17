@@ -1,0 +1,20 @@
+﻿
+<ul>
+    {% if feeds %}
+        {% for f in feeds %}
+         
+            
+            {% ifequal f act_feed %}
+            
+                <li>
+                    
+                    <strong><a href="{% url 'news:show_feed' f.slug %}">{{f.name}}</a></strong>
+                </li>
+            {%else%}
+                <li><a href="{% url 'news:show_feed' f.slug %}">{{f.name}}</a></li>
+            {% endifequal %}
+        {%endfor%}
+    {% else %}
+        <li><strong>Feeds do not exist</strong></li>
+    {%endif%} 
+</ul>

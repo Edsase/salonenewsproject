@@ -1,0 +1,20 @@
+﻿{% extends 'news/base.html' %}
+{% load staticfiles %}
+
+{% block title_block %}
+    About
+{% endblock %}
+
+{% block body_block %}
+    <p>
+        Thanks for taking your time to visit our site today {{date}}! <br />
+        This site is brought to you by {{owner}}.<br />
+        Our goal is to bring you the latest news out of Sierra Leone.<br />
+        We parse the Sierra Leone web to bring you all the news from online published sources in one page.<br />
+        Hope you'd have an excellent browsing experience!<br />
+    </p>
+    <div>
+        <img src="{% static "images/news/sl.jpg" %}" alt="map of sierra leone" />
+    </div>
+
+{% endblock %}

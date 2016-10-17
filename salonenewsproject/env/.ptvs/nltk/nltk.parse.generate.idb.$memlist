@@ -1,0 +1,7 @@
+grammar
+Nonterminal
+_multiply
+_generate_all
+parse_cfg
+generate
+sent

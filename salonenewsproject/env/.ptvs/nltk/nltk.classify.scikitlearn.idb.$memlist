@@ -1,0 +1,9 @@
+DictionaryProbDist
+ClassifierI
+LogisticRegression
+SklearnClassifier
+np
+binary_names_demo_features
+BernoulliNB
+coo_matrix
+names_demo

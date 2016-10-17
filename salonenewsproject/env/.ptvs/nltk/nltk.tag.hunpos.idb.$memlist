@@ -1,0 +1,10 @@
+HunposTagger
+Popen
+_hunpos_url
+os
+doctest
+_hunpos_charset
+find_file
+TaggerI
+find_binary
+PIPE

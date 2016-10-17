@@ -1,0 +1,13 @@
+convert_regexp_to_nongrouping
+regexp_span_tokenize
+TokenizerI
+WordPunctTokenizer
+BlanklineTokenizer
+sre_constants
+doctest
+wordpunct_tokenize
+blankline_tokenize
+WhitespaceTokenizer
+regexp_tokenize
+re
+RegexpTokenizer

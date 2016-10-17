@@ -1,0 +1,16 @@
+_save
+MODES
+_binary
+__version__
+_accept
+i32
+Image
+o8
+o32
+i8
+SAVE
+ImagePalette
+o16
+TgaImageFile
+i16
+ImageFile

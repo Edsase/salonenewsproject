@@ -1,0 +1,8 @@
+copy
+demo
+sys
+numpy
+VectorSpaceClusterer
+_vector_compare
+random
+KMeansClusterer

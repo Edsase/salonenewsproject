@@ -1,0 +1,5 @@
+finditer
+regexp_span_tokenize
+doctest
+string_span_tokenize
+spans_to_relative

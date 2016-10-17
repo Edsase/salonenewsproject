@@ -1,0 +1,16 @@
+RunFailure
+path
+POSTagger
+Popen
+TaggerI
+architecture
+_senna_url
+sep
+Error
+SennaTagger
+system
+NERTagger
+SentenceMisalignment
+PIPE
+CHKTagger
+ExecutableNotFound

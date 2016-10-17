@@ -1,0 +1,14 @@
+PY2
+with_statement
+VERSION
+force_unicode
+atomic_decorator
+unicode_literals
+division
+encoding
+print_function
+unquote
+string_types
+transaction
+sys
+flatten_fieldsets
