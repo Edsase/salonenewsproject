@@ -21,7 +21,7 @@ from models import Feed, Article, User, UserProfile
 
 
 #import articles from news paper...check out  https://github.com/codelucas/newspaper
-from newspaper import Article as NewsArticle
+#from newspaper import Article as NewsArticle
 #import feed parser
 import feedparser
 #import dateutil parser
